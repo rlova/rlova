@@ -35,14 +35,6 @@ Passionné par les **systèmes bas-niveau**, les **architectures distribuées** 
 - 🧮 **Algorithmique avancée** — AVL, Red-Black trees, Skip lists
 - 🖥️ **Développement web** — HTML/CSS/JS, interfaces interactives
 
----
-
-## 📊 Stats GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rlova&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlova&layout=compact&theme=github_dark&hide_border=true" height="150"/>
-</p>
 
 <!--
 **rlova/rlova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
