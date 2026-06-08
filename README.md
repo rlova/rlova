@@ -1,7 +1,7 @@
 <h2 align="center">Lova R.</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=3FB950&center=true&vCenter=true&width=500&lines=L2+Informatique+%C2%B7+UPS+Toulouse;Syst%C3%A8mes+bas-niveau+%C2%B7+Docker+%C2%B7+Algorithmique" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=3FB950&center=true&vCenter=true&width=500&lines=L3+Informatique+%C2%B7+UPS+Toulouse;Syst%C3%A8mes+bas-niveau+%C2%B7+%C2%B7+Algorithmique" alt="Typing SVG" />
 </p>
 
 ---
