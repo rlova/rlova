@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 À propos
 
-Étudiant en **L3 Informatique** à l'Université Paul Sabatier (Toulouse III).  
+Étudiant en **L3 Informatique** à l'Université de Toulouse (ex Paul Sabatier).  
 Passionné par les **systèmes bas-niveau**, les **architectures distribuées** et le développement web.  
 🇲🇬 → 🇫🇷
 
